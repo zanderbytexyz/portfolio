@@ -1,6 +1,6 @@
 # Portfolio
 
-#  Contest Highlights
+##  Public contests
 
 | Contest | Platform | Placement | Findings |
 |---------|----------|-----------| ------|
